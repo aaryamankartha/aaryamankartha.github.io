@@ -11,7 +11,7 @@ redirect_from:
 
 About me 
 ======
-My I am a masters student at York University studying Computer Science and supervised by Enamul Hoque Prince. Prior to this I completed my Bachelor's of Science in Computer Science at Toronto Metropolitan University (formerly Ryerson) and minored in Mathematics. My research is interdisciplinary and looks at the areas of Human Computer Interaction, Natural Language Processing, and Data Analytics and Visualization. Specifically, I am focused on building multi-agentic frameworks, creating related benchmarks, and creating empirical foundations for Vision Language Model based agents in their abilities to reason and traverse through interactive visualizations such as dashboards.  
+I am a masters student at York University studying Computer Science and supervised by Enamul Hoque Prince. Prior to this I completed my Bachelor's of Science in Computer Science at Toronto Metropolitan University (formerly Ryerson) and minored in Mathematics. My research is interdisciplinary and looks at the areas of Human Computer Interaction, Natural Language Processing, and Data Analytics and Visualization. Specifically, I am focused on building multi-agentic frameworks, creating related benchmarks, and creating empirical foundations for Vision Language Model based agents in their abilities to reason and traverse through interactive visualizations such as dashboards.  
 
 My work has been published 
  
