@@ -11,7 +11,7 @@ paperurl: 'https://arxiv.org/pdf/2504.05506'
 citation: 'Masry, A., Islam, M. S., Ahmed, M., Bajaj, A., Kabir, F., Aaryaman Kartha*, Laskar, M. T. R., Rahman, M., Rahman,
 S., Shahmohammadi, M., Thakkar, M., Parvez, M. R., Hoque, E., & Joty, S. (2025). Chartqapro: A more diverse and
 challenging benchmark for chart question answering. https://arxiv.org/abs/2504.05506'
-image: "/images/chartgemma.png"
+image: "/images/ChartQAPro-1.png"
 
 ---
 
