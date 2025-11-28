@@ -18,7 +18,3 @@ Publications
 2. Chartqapro: A more diverse andchallenging benchmark for chart question answering.
 3. Chartgemma: Visual instructiontuning for chart reasoning in the wild.
 
- 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
