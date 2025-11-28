@@ -28,7 +28,9 @@ Publications
 
   {% if pub.image %}
   <div style="margin-right:1rem;">
-    <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" style="width:120px; max-width:120px;">
+    <img src="{{ pub.image | relative_url }}"
+         alt="{{ pub.title }}"
+         style="width:120px; max-width:120px; border-radius:4px;">
   </div>
   {% endif %}
 
@@ -36,14 +38,13 @@ Publications
     <p style="margin:0;">
       <strong>{{ pub.title }}</strong><br>
       {{ pub.authors }}<br>
-      {% if pub.venue %}
-      <em>{{ pub.venue }}</em>{% if pub.date %}, {{ pub.date | date: "%Y" }}{% endif %}
-      {% endif %}
+      <em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}
     </p>
 
     {% if pub.paperurl %}
     <p style="margin-top:0.5rem;">
-      <a href="{{ pub.paperurl }}" style="border:1px solid #000; padding:3px 8px; text-decoration:none; font-size:0.85rem;">
+      <a href="{{ pub.paperurl }}"
+         style="border:1px solid #000; padding:3px 8px; text-decoration:none; font-size:0.85rem;">
         PDF
       </a>
     </p>
