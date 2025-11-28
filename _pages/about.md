@@ -19,3 +19,36 @@ Publications
 3. Chartgemma: Visual instructiontuning for chart reasoning in the wild.
 
  
+## Recent Papers
+
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
+{% for pub in pubs %}
+<div style="display:flex; align-items:flex-start; margin-bottom:1.5rem;">
+
+  {% if pub.image %}
+  <div style="margin-right:1rem;">
+    <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" style="width:120px; max-width:120px;">
+  </div>
+  {% endif %}
+
+  <div>
+    <p style="margin:0;">
+      <strong>{{ pub.title }}</strong><br>
+      {{ pub.authors }}<br>
+      {% if pub.venue %}
+      <em>{{ pub.venue }}</em>{% if pub.date %}, {{ pub.date | date: "%Y" }}{% endif %}
+      {% endif %}
+    </p>
+
+    {% if pub.paperurl %}
+    <p style="margin-top:0.5rem;">
+      <a href="{{ pub.paperurl }}" style="border:1px solid #000; padding:3px 8px; text-decoration:none; font-size:0.85rem;">
+        PDF
+      </a>
+    </p>
+    {% endif %}
+  </div>
+
+</div>
+{% endfor %}
