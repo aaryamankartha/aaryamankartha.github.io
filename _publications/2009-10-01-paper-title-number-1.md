@@ -6,10 +6,12 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'EACL 2026 (Decision Pending)'
+slidesurl: ' '
+paperurl: 'https://arxiv.org/pdf/2508.17398'
+citation: 'Aaryaman Kartha*, Masry, A., Islam, M. S., Lang, T., Rahman, S., Mahbub, R., Rahman, M., Ahmed, M., Parvez,
+M. R., Hoque, E., & Joty, S. (2025). Dashboardqa: Benchmarking multimodal agents for question answering on interactive
+dashboards. https://arxiv.org/abs/2508.17398'
 image: "/images/500x300.png"
 
 ---
