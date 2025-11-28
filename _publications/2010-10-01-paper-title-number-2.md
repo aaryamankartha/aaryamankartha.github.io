@@ -9,7 +9,7 @@ venue: 'COLING 2025 industry track'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf](https://arxiv.org/pdf/2407.04172'
 citation: 'Masry, A., Thakkar, M., Bajaj, A., Aaryaman Kartha*, Hoque, E., & Joty, S. (2024). Chartgemma: Visual instructiontuning for chart reasoning in the wild. https://arxiv.org/abs/2407.04172'
-image: "/images/DashboardQA_website.png"
+image: "/images/chartgemma.png"
 
 ---
 
