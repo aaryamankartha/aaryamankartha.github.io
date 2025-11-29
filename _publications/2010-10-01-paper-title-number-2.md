@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-04-07
-venue: 'ACL (Findings) 2025'
+venue: 'ACL (Findings)'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2504.05506'
 citation: 'Masry, A., Islam, M. S., Ahmed, M., Bajaj, A., Kabir, F., Aaryaman Kartha*, Laskar, M. T. R., Rahman, M., Rahman,
