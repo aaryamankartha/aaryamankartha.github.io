@@ -1,5 +1,5 @@
 ---
-title: "**ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild**"
+title: "ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
