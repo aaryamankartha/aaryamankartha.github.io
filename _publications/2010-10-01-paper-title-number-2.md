@@ -1,5 +1,5 @@
 ---
-title: "**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**"
+title: "ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
