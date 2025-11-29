@@ -30,7 +30,7 @@ Publications
   <div style="margin-right:1rem;">
     <img src="{{ pub.image | relative_url }}"
          alt="{{ pub.title }}"
-         style="width:120px; max-width:120px; border-radius:4px;">
+         style="width:150px; max-width:150px; border-radius:4px;">
   </div>
   {% endif %}
 
