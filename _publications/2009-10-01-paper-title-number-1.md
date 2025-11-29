@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024-07-04
-venue: 'COLING 2025 industry track'
+date: 2025
+venue: 'COLING industry track'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2407.04172'
 citation: 'Masry, A., Thakkar, M., Bajaj, A., Aaryaman Kartha*, Hoque, E., & Joty, S. (2024). Chartgemma: Visual instructiontuning for chart reasoning in the wild. https://arxiv.org/abs/2407.04172'
