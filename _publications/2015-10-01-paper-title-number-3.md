@@ -9,10 +9,9 @@ date: 2025-08-24
 venue: 'EACL (2026) - Decision Pending'
 slidesurl: ' '
 paperurl: 'https://arxiv.org/pdf/2508.17398'
-citation: >
-Aaryaman Kartha*, Masry, A., Islam, M. S., Lang, T., Rahman, S., Mahbub, R., Rahman, M., Ahmed, M., Parvez,
+citation: "Aaryaman Kartha*, Masry, A., Islam, M. S., Lang, T., Rahman, S., Mahbub, R., Rahman, M., Ahmed, M., Parvez,
 M. R., Hoque, E., & Joty, S. (2025). Dashboardqa: Benchmarking multimodal agents for question answering on interactive
-dashboards. https://arxiv.org/abs/2508.17398
+dashboards. https://arxiv.org/abs/2508.17398"
 image: "/images/DashboardQA_website.png"
 ---
 
