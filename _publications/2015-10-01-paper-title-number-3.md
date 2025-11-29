@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date:  
+date: 2025-08-24
 venue: 'EACL (2026) - Decision Pending'
 slidesurl: ' '
 paperurl: 'https://arxiv.org/pdf/2508.17398'
