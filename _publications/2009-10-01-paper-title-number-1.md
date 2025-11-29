@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025
+date: 2025-01-01
 venue: 'COLING industry track'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2407.04172'
