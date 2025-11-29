@@ -5,8 +5,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'EACL 2026 (Decision Pending)'
+date:  
+venue: 'EACL (2026) - Decision Pending'
 slidesurl: ' '
 paperurl: 'https://arxiv.org/pdf/2508.17398'
 citation: 'Aaryaman Kartha*, Masry, A., Islam, M. S., Lang, T., Rahman, S., Mahbub, R., Rahman, M., Ahmed, M., Parvez,
