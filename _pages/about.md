@@ -23,7 +23,7 @@ I am a masters student at York University studying Computer Science and supervis
   <div style="margin-right:1rem;">
     <img src="{{ pub.image | relative_url }}"
          alt="{{ pub.title }}"
-         style="width:150px; max-width:150px; border-radius:4px;">
+         style="width:250px; max-width:250px; border-radius:4px;">
   </div>
   {% endif %}
 
